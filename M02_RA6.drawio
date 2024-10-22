@@ -932,6 +932,18 @@
         <mxCell id="50wBg0mrN0XMjnWdrAJ0-316" value="es marquen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="286" y="450" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.834;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="50wBg0mrN0XMjnWdrAJ0-5" target="50wBg0mrN0XMjnWdrAJ0-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-318" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="208" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-319" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-320" value="juguen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="220" y="298" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
