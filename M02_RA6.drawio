@@ -827,8 +827,8 @@
         <mxCell id="50wBg0mrN0XMjnWdrAJ0-251" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="118" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50wBg0mrN0XMjnWdrAJ0-252" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="118" width="30" height="30" as="geometry" />
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-252" value="1,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="118" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="50wBg0mrN0XMjnWdrAJ0-254" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="726" y="168" width="30" height="30" as="geometry" />
@@ -839,8 +839,8 @@
         <mxCell id="50wBg0mrN0XMjnWdrAJ0-257" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="656" y="155" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="50wBg0mrN0XMjnWdrAJ0-258" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="406" y="360" width="30" height="30" as="geometry" />
+        <mxCell id="50wBg0mrN0XMjnWdrAJ0-258" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="50wBg0mrN0XMjnWdrAJ0-259" value="&lt;b&gt;juega en&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="700" y="260" width="70" height="30" as="geometry" />
