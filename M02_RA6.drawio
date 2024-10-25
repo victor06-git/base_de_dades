@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.2">
   <diagram name="Pàgina-1" id="aIYA0AMCQCY8-BXurUip">
-    <mxGraphModel dx="2209" dy="933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2251" dy="1586" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,9 +508,6 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="50wBg0mrN0XMjnWdrAJ0-332" value="&lt;div&gt;Aclaraciones en el diagrama:&lt;/div&gt;&lt;div&gt;La relación por cada posición a posición es de 1 a 1-3 o 4 (menos la del portero)&lt;/div&gt;&lt;div&gt;ya que en un partido de futbol normalmente se juegan con &lt;br&gt;&lt;/div&gt;&lt;div&gt;- 3 o 4 defensas (aun que he supuesto que también se juega con 1 o 2)&lt;br&gt;&lt;/div&gt;&lt;div&gt;- 3 o 4 medio-centros (aun que he supuesto que también se juega con 1 o 2)&lt;/div&gt;&lt;div&gt;- 2 o 3 delanteros (aun que he supuesto que también se juega con 1 o 2)&lt;/div&gt;&lt;div&gt;Para que el total de jugadores de 11&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-675" y="28" width="450" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="7pJW5YzFHqyKufc8Ey2G-1" value="fora_de_joc_partit" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="680" width="200" height="90" as="geometry" />
         </mxCell>
@@ -546,87 +543,6 @@
               <mxPoint x="100" y="580" />
               <mxPoint x="100" y="485" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-69" value="faltes" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-840" y="290" width="200" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-70" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="30" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-71" value="PK,FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-70" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-72" value="codi_partit" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-70" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-73" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="60" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-74" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-73" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-75" value="id_falta" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-73" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-76" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="90" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-77" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-76" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-78" value="minut" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-76" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="120" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-80" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-79" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-81" value="jugador_ha_fet_falta" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-79" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-82" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="150" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-83" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-82" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-84" value="jugador_ha_rebut_falta" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-82" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-85" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="7pJW5YzFHqyKufc8Ey2G-69" vertex="1">
-          <mxGeometry y="180" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-86" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-85" vertex="1">
-          <mxGeometry width="40" height="30" as="geometry">
-            <mxRectangle width="40" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7pJW5YzFHqyKufc8Ey2G-87" value="es_targeta (bool)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="7pJW5YzFHqyKufc8Ey2G-85" vertex="1">
-          <mxGeometry x="40" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7pJW5YzFHqyKufc8Ey2G-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="7pJW5YzFHqyKufc8Ey2G-2" target="50wBg0mrN0XMjnWdrAJ0-51" edge="1">
