@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-1" value="sala" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="334" y="210" width="160" height="116" as="geometry" />
+          <mxGeometry x="350" y="170" width="160" height="116" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-2" value="&lt;u&gt;id_sala&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -13,11 +13,11 @@
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-3" value="nom" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-1">
           <mxGeometry y="56" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SH2_BlAndXMaVn3l2H9Y-4" value="Item 3" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-1">
+        <mxCell id="SH2_BlAndXMaVn3l2H9Y-4" value="planta" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-1">
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-5" value="coleccio_obra" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="160" height="86" as="geometry" />
+          <mxGeometry x="90" y="170" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-6" value="&lt;u&gt;num_catàleg&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-5">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry y="86" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-17" value="artista" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="590" y="205" width="160" height="206" as="geometry" />
+          <mxGeometry x="580" y="160" width="160" height="206" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-18" value="&lt;u&gt;id_artista&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="SH2_BlAndXMaVn3l2H9Y-17">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
