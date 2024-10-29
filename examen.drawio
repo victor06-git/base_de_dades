@@ -156,7 +156,7 @@
           <mxGeometry x="370" y="260" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-62" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Dades_obra_sala és una interrelació amb les 3 Primary Keys de les 3 entitats que es relacionen. Aleshores, el que tenen en comú és la data_exposició que es troba si o si encara que l&#39;obra no tingui artista&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="340" width="180" height="90" as="geometry" />
+          <mxGeometry x="-20" y="340" width="180" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
