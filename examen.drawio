@@ -121,7 +121,7 @@
           <mxGeometry x="560" y="560" width="42" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-50" value="pot ser" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="670" width="120" height="50" as="geometry" />
+          <mxGeometry x="482" y="690" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-52" value="1,1" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="618" y="496" width="42" height="30" as="geometry" />
@@ -167,6 +167,15 @@
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-66" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Artista i dades_obra_sala té una relació M:M opcional perquè hi ha una quantitat d&#39;obres que no té especificat l&#39;artista. Aleshores, pot ser que tingui o que no.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-30" y="620" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SH2_BlAndXMaVn3l2H9Y-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="690" as="sourcePoint" />
+            <mxPoint x="550" y="710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="690" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
