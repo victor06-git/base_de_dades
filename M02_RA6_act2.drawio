@@ -773,6 +773,15 @@
         <mxCell id="qHEo4lniebMr2QVXQ3yj-56" value="La taula tipus la hem creat per poder definir que les desenvolupadores poden tenir més d&#39;un tipus diferent, com ara que sigui Gran i Indie." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="650" width="220" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-57" value="La relació que hi ha entre client i prestec és de 1 a n perquè un client com a mínim pot fer 1 o més prestecs. I en canvi, 1 o més prestecs poden ser fets per un client." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1110" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-58" value="Les taules desenvolupadora i tipus tenen una relació 1 a n perquè una desenvolupadora pot tenir més d&#39;un tipus. En el cas de tipus, diferents tipus de la taula poden pertànyer a una desenvolupadora." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1370" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-59" value="Videojoc i desenvolupadora té&amp;nbsp;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1020" width="220" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
