@@ -770,7 +770,7 @@
         <mxCell id="qHEo4lniebMr2QVXQ3yj-55" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;La Foreign Key codi_desenvolupadora fa referència que un videojoc pot ser dissenyat o desenvolupat per una o més desenvolupadores.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="980" y="400" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qHEo4lniebMr2QVXQ3yj-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;La Foreign Key codi_desenvolupadora fa referència que un videojoc pot ser dissenyat o desenvolupat per una o més desenvolupadores.&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-56" value="La taula tipus la hem creat per poder definir que les desenvolupadores poden tenir més d&#39;un tipus diferent, com ara que sigui Gran i Indie." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="650" width="220" height="130" as="geometry" />
         </mxCell>
       </root>
