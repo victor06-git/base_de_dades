@@ -177,6 +177,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="SH2_BlAndXMaVn3l2H9Y-68" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;L&#39;entitat sala té aquests dos atributs per saber en concret quina es la planta i nom de cada sala on es troben en exposició&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="126" width="180" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
