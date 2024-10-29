@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Pàgina-1" id="2MYZSKgYS-YBOU3WttR9">
-    <mxGraphModel dx="1368" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="SH2_BlAndXMaVn3l2H9Y-61" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Sala i obra tenen una relació de M:N&amp;nbsp; perquè una sal pot estar buida. I en canvi, pot o no haber obres en diferents sales a diferents moments del dia.&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SH2_BlAndXMaVn3l2H9Y-62" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 14px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Dades_obra_sala és una interrelació amb les 3 Primary Keys de les 3 entitats que es relacionen. Aleshores, el que tenen en comú és la data_exposició que es troba si o si encara que l&#39;obra no tingui artista&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="340" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
