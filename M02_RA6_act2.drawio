@@ -663,7 +663,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qHEo4lniebMr2QVXQ3yj-28" value="tipus" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1190" width="180" height="210" as="geometry" />
+          <mxGeometry x="550" y="1250" width="180" height="210" as="geometry" />
         </mxCell>
         <mxCell id="qHEo4lniebMr2QVXQ3yj-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="qHEo4lniebMr2QVXQ3yj-28">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -779,8 +779,11 @@
         <mxCell id="qHEo4lniebMr2QVXQ3yj-58" value="Les taules desenvolupadora i tipus tenen una relació 1 a n perquè una desenvolupadora pot tenir més d&#39;un tipus. En el cas de tipus, diferents tipus de la taula poden pertànyer a una desenvolupadora." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="860" y="1370" width="220" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="qHEo4lniebMr2QVXQ3yj-59" value="Videojoc i desenvolupadora té&amp;nbsp;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1020" width="220" height="130" as="geometry" />
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-59" value="Videojoc i desenvolupadora té 1 a n, on 1 videojoc pot tenir d&#39;un a més desenvolupadores. I una o varies desenvolupadores poden forma part d&#39;un videojoc." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1020" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-60" value="Prestec i videojoc tenen una relació gairebé igual que la de client/prestec, on 1 videojoc pot tenir més d&#39;un prestec perquè només hi existeix un videojoc no té còpies. I en canvi, d&#39;un a molts prestecs poden ser fets cap a un videojoc." style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1100" width="240" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
