@@ -774,6 +774,9 @@
             <mxPoint x="540" y="995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qHEo4lniebMr2QVXQ3yj-53" value="&lt;span&gt;Hemm creat aquesta taula perquè ambdues taules tinguin un grau de normalització de 3FN. Això es simplement perquè tots els atributs&amp;nbsp;&lt;/span&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1020" y="670" width="180" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
